@@ -1,0 +1,154 @@
+            #principal {
+                width: 85%;
+                min-height: 650px;
+                background-color: #EEEEEE;
+                margin-top: 50px;
+                margin-left: 50px;
+                display: inline-block;
+            }
+            
+            #contenido {
+                width: 100%;
+                display: inline-block;
+                margin-left: 45px;
+                margin-right: 25px;
+            }
+            
+            .linea {
+                display: inline-block;
+                margin-left: 10px;
+                line-height: 10px;
+                line-height: 1px;
+            }
+            
+            #fila1 {
+                width: 100%;
+                display: inline-block;
+            }
+            
+            .rojo {
+                color: red;
+            }
+            
+            .fila1-1 {
+                color: red;
+                display: inline-block;
+                margin-left: 32px;
+            }
+            
+            .fila1-2 {
+                color: red;
+                display: inline-block;
+                margin-left: 18px;
+            }
+            
+            .fila1-3 {
+                color: red;
+                display: inline-block;
+                margin-left: 15px;
+            }
+            
+            .indice {
+                display: inline-block;
+                margin-left: 24px;
+            }
+            
+            #fila2 {
+                display: inline;
+                width: 100%;
+            }
+            
+            .fila2-1 {
+                color: red;
+                display: inline;
+                text-align: left;
+            }
+            
+            #fila3 {
+                width: 100%;
+                display: inline;
+                margin-top: 5px;
+            }
+            
+            .rellena {
+                width: 4.3%;
+                min-height: 30px;
+                margin-top: 1px;
+                display: inline-block;
+            }
+            
+            .rellena1 {
+                width: 68%;
+                min-height: 30px;
+                margin-top: 1px;
+                margin-left: 800PX;
+                display: inline;
+            }
+            
+            .rellena2 {
+                width: 43%;
+                min-height: 30px;
+                margin-top: 1px;
+                margin-left: 500px;
+                display: inline;
+            }
+            
+            .cuadradoazul {
+                width: 4.3%;
+                min-height: 30px;
+                background-color: #689bff;
+                margin-top: 1px;
+                display: inline-block;
+            }
+            
+            .txtpie {
+                width: 8.6%;
+                min-height: 30px;
+                text-align: right;
+                font-size: 13px;
+                margin-left: 12px;
+                color: red;
+                display: inline-block;
+                vertical-align: bottom;
+            }
+            
+            .cuadradoamarillo {
+                display: inline-block;
+                width: 4.3%;
+                min-height: 30px;
+                background-color: #fecb00;
+                margin-top: 1px;
+            }
+            
+            .cuadrorosa {
+                display: inline-block;
+                width: 4.3%;
+                min-height: 30px;
+                background-color: #fd9a98;
+                margin-top: 1px;
+            }
+            
+            .cuadroverde {
+                display: inline-block;
+                width: 4.3%;
+                min-height: 20px;
+                background-color: #1fca21;
+                margin-top: 1px;
+            }
+            
+            .txtdiv {
+                line-height: 0.5px;
+                font-size: 9px;
+                text-align: center;
+                color: blue;
+                font-weight: bold;
+            }
+            
+            .letradiv {
+                line-height: 1px;
+                font-size: 19px;
+                text-align: center;
+                color: blue;
+                font-weight: bold;
+                font-family: sans-serif;
+            }

@@ -1,0 +1,175 @@
+Ejercicio 1
+Variables 
+x
+y
+b
+
+
+Consola:
+2
+3
+indefinido
+
+********************************************
+Ejercicio 2
+Variables 
+x
+y
+b
+
+
+Consola:
+6
+10
+indefinido
+********************************************
+Ejercicio 3
+Variables 
+x=[1,2,3,4,5,10]
+i=0-3-4-8
+
+Consola:
+3
+7
+
+********************************************
+Ejercicio 4
+Variables 
+x=15
+
+Consola:
+15
+15
+10
+15
+********************************************
+Ejercicio 5
+Variables 
+i=0-2-4-6-8-10-12-14-16
+
+Consola:
+0
+2
+4
+6
+8
+10
+12
+14
+********************************************
+Ejercicio 6
+Variables 
+i=0-1-2-3
+j=0-1-2
+
+Consola:
+0
+0
+0
+1
+0
+2
+
+********************************************
+Ejercicio 7
+Variables 
+i=0-1-2-3
+j=0-1-2-3
+
+Consola:
+0
+0
+0
+0
+1
+2
+0
+2
+4
+********************************************
+Ejercicio 8
+Variables 
+i=0-1-2
+j=0-1-2-3-4-5
+
+Consola:
+0
+0
+0
+0
+0
+0
+1
+2
+3
+0
+2
+4
+8
+15
+
+**********************************************
+Parte 2
+
+Ejercicio 1
+function printUpTo(x) {
+  
+  for ( var i=0; i<x; i++) {
+	console.log(x); 
+}
+   if (x<0) {
+	console.log(false);	
+	return false;
+	}
+}
+printUpTo(1000); // debería imprimir todos los enteros de 1 to 1000
+y = printUpTo(-10); // debería imprimir false
+console.log(y); // debería imprimir false
+
+**********************************************
+Ejercicio 2
+
+function printSum(x) {
+  var sum = 0;
+  for ( var i=0; i<x; i++) {
+     console.log(x); 
+     sum=sum+i; 
+    }
+  
+  return sum
+}
+y = printSum(255) // debería imprimir todos los enteros de 0 a 255 y que cada entero imprima la suma parcial.
+console.log(y) // // debería imprimir 32640
+***********************************************
+Ejercicio 3
+function printSumArray(x) {
+  var sum = 0;
+  for(var i=0; i<x.length; i++) {
+    sum=sum+x[i];
+  }
+  return sum;
+}
+console.log( printSumArray([1,2,3]) ); // debería imprimir 6
+
+**********************************************
+Ejercicio 4
+
+function largestElement(x) {
+    maximo = 0;
+for(var i=0;i< x.length;i++){
+    if(maximo < x[i]){
+        maximo = x[i];
+    }
+   }
+   return maximo;
+}
+
+largestElement([1,30,5,47])
+y = maximo;
+console.log(y)
+
+
+
+
+
+

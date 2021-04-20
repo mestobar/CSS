@@ -1,0 +1,191 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    #wrapper {
+        width: 900px;
+        background-color: rgb(247, 242, 242);
+        margin: 0px auto;
+    }
+    
+    #subwrapper {
+        background-color: rgba(153, 67, 67, 0.904);
+        width: 100%;
+    }
+    
+    #header {
+        min-height: 50px;
+        width: 100%;
+    }
+    
+    #nombre {
+        font-size: 25px;
+        font-family: cursive;
+        padding: 30px;
+    }
+    
+    #actividad {
+        font-size: 22px;
+        float: right;
+        margin: 15px 15px 0px 0px;
+    }
+    
+    #main_content {
+        min-height: 600px;
+        width: 100%;
+    }
+    
+    #sobremi {
+        min-height: 280px;
+        width: 100%;
+        padding: 20px;
+    }
+    
+    #mifoto {
+        min-height: 100px;
+        width: 40%;
+        float: left;
+        border: 5px solid rgb(151, 145, 145);
+    }
+    
+    #misdatos {
+        background-color: rgb(240, 234, 247);
+        min-height: 252px;
+        width: 50%;
+        margin-left: 25px;
+        display: inline-block;
+    }
+    
+    .barra {
+        background-color: rgb(90, 84, 84);
+        min-height: 50px;
+        width: 100%;
+        float: left;
+    }
+    
+    #about {
+        padding: 10px;
+    }
+    
+    #contenido {
+        min-height: 680px;
+        width: 100%;
+    }
+    
+    .texto {
+        background-color: rgb(249, 248, 250);
+        padding: 10px;
+        min-height: 400px;
+    }
+    
+    .txtconte {
+        color: white;
+        font-size: 22px;
+        text-align: left;
+        padding: 5px;
+    }
+    
+    .barra2 {
+        background-color: rgb(90, 84, 84);
+        min-height: 45px;
+        width: 100%;
+        float: left;
+    }
+    
+    #conte1 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 25px;
+        float: left;
+    }
+    
+    #conte2 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 15px;
+        float: left;
+    }
+    
+    #conte3 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 15px;
+        float: left;
+    }
+    
+    #conte4 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 25px;
+        float: left;
+    }
+    
+    #conte5 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 15px;
+        float: left;
+    }
+    
+    #conte6 {
+        min-height: 342px;
+        width: 30%;
+        padding-left: 15px;
+        float: left;
+    }
+    
+    .lamode {
+        min-height: 100px;
+        width: 100%;
+        padding-bottom: 10px;
+        float: left;
+    }
+    
+    .icon {
+        min-height: 242px;
+        width: 100%;
+        background-color: rgb(249, 248, 250);
+    }
+    
+    .stack {
+        min-height: 50px;
+        width: 16%;
+        margin: 5px;
+        float: left;
+    }
+    
+    .botones {
+        min-height: 25px;
+        padding-left: 60px;
+        float: left;
+    }
+    
+    .boton {
+        display: block;
+        background-color: #4CAF50;
+        /* Green */
+        border-radius: 10px;
+        color: white;
+        padding: 8px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 15px;
+    }
+    
+    #footer {
+        width: 100%;
+    }
+    
+    .txtfooter {
+        color: rgb(5, 5, 5);
+        font-size: 20px;
+        text-align: center;
+        vertical-align: top;
+    }
+    
+    .redes {
+        min-height: 10px;
+        width: 3%;
+        margin: 5px;
+    }

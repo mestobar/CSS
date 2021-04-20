@@ -1,0 +1,64 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+#wrapper {
+    width: 950px;
+    background-color: rgba(6, 9, 219, 0.911);
+    margin: 0px auto;
+    overflow: hidden;
+    height: auto;
+}
+
+#header {
+    min-height: 100px;
+    background-color: rgb(204, 43, 32);
+    color: white;
+    border-radius: 10px;
+}
+
+#navigation {
+    border-radius: 10px;
+    min-height: 200px;
+    width: 200px;
+    color: white;
+    background-color: rgba(17, 130, 223, 0.87);
+    float: left;
+}
+
+ul {
+    line-height: 0%;
+}
+
+ul #nav {
+    line-height: 0px;
+}
+
+a {
+    color: white;
+}
+
+p {
+    line-height: 14px;
+    display: inline;
+}
+
+#main_content {
+    border-radius: 10px;
+    min-height: 400px;
+    width: 700px;
+    color: white;
+    background-color: rgb(8, 8, 8);
+    float: left;
+}
+
+#footer {
+    border-radius: 10px;
+    min-height: 50px;
+    width: 920px;
+    background-color: rgb(88, 87, 86);
+    float: left;
+}

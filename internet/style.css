@@ -1,0 +1,270 @@
+            #wrapper {
+                width: 919px;
+                min-height: 624px;
+                background-color: #f6f8fa;
+            }
+            
+            #head {
+                position: absolute;
+            }
+            
+            .logo {
+                width: 80px;
+                vertical-align: bottom;
+                position: absolute;
+                left: 0px;
+                top: 30px;
+                z-index: 2;
+            }
+            
+            .nt {
+                color: #5789b5;
+            }
+            
+            .txtlogo {
+                width: 200px;
+                position: absolute;
+                left: 90px;
+                top: 30px;
+            }
+            
+            #txtitulo {
+                min-height: 50px;
+                width: 900px;
+                padding-top: 20px;
+                padding-left: 20px;
+                background-color: #3f77a7;
+                color: white;
+                position: absolute;
+                left: 0px;
+                top: 70px;
+                z-index: 1;
+            }
+            
+            #ladoizq {
+                width: 220px;
+                min-height: 350px;
+                position: absolute;
+                left: 10px;
+                top: 170px;
+            }
+            
+            .txtizq {
+                font-size: 20px;
+                font-weight: bold;
+            }
+            
+            .subtxtizq {
+                font-size: 14px;
+                font-weight: bold;
+            }
+            
+            .txtrojo {
+                color: #DA2F29;
+            }
+            
+            .colorbtn1 {
+                background-color: #3f77a7;
+                color: white;
+                height: 30px;
+                border-radius: 5px;
+                width: 155px;
+                margin-bottom: 2px;
+            }
+            
+            .colorbtn2 {
+                background-color: #EF7C00;
+                width: 155px;
+                color: white;
+                height: 30px;
+                border-radius: 5px;
+            }
+            
+            .colorbtn3 {
+                background-color: #3bc9df;
+                width: 145px;
+                color: white;
+                height: 20px;
+                border-radius: 5px;
+            }
+            
+            .lineaploma {
+                display: inline-block;
+                width: 160px;
+                border-top: 1px solid #696a6b;
+                vertical-align: center;
+                margin-top: 20px;
+            }
+            
+            .lineaploma2 {
+                display: inline-block;
+                width: 680px;
+                border-top: 1px solid #696a6b;
+                vertical-align: center;
+                margin-top: 20px;
+                margin-left: 5px;
+            }
+            
+            #fondoimg {
+                background-image: url("images/ad_background.png");
+                width: 160px;
+                min-height: 200px;
+                margin-top: 20px;
+                color: white;
+                text-align: center;
+                padding-bottom: 20px;
+            }
+            
+            .ninja {
+                width: 80px;
+            }
+            
+            #ladodere {
+                width: 695px;
+                display: inline-block;
+                min-height: 500px;
+                position: absolute;
+                left: 231px;
+                top: 170px;
+            }
+            
+            #ladodere2 {
+                width: 695px;
+                display: inline-block;
+                min-height: 400px;
+                position: absolute;
+                left: 240px;
+                top: 230px;
+            }
+            
+            #derecho {
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                text-align: center;
+                line-height: 12px;
+            }
+            
+            .porteimg {
+                width: 20px;
+                padding-top: 5px;
+            }
+            
+            .portefono {
+                width: 30px;
+                padding-top: 5px;
+            }
+            
+            #img-icon1 {
+                padding-left: 5px;
+            }
+            
+            #img-icon2 {
+                padding-left: 550px;
+                vertical-align: top;
+                position: absolute;
+                left: 0px;
+                top: 0px;
+            }
+            
+            .txtdere1 {
+                color: #3f77a7;
+                font-size: 18px;
+                font-weight: bold;
+            }
+            
+            .txtdere2 {
+                color: #4c4d4e;
+                font-size: 8px;
+                font-weight: bold;
+                padding-left: 565px;
+                vertical-align: top;
+            }
+            
+            .txtdere2-1 {
+                color: #4c4d4e;
+                font-size: 8px;
+                font-weight: bold;
+                padding-left: 580px;
+            }
+            
+            .txtdere3 {
+                color: #0b99a3;
+                font-size: 18px;
+                font-weight: bold;
+                padding-left: 565px;
+            }
+            
+            .txtizq {
+                color: #3f77a7;
+                font-size: 18px;
+            }
+            
+            .txtderetitulo {
+                line-height: 2px;
+                color: #3f77a7;
+                vertical-align: top;
+            }
+            
+            .txtladodere2 {
+                line-height: 4px;
+            }
+            
+            .lista {
+                display: inline-block;
+                text-align: justify;
+                padding-right: 50px;
+            }
+            
+            .lista1 {
+                font-weight: bold;
+            }
+            
+            .txtspan {
+                color: #0b99a3;
+                font-weight: bold;
+            }
+            
+            .size14 {
+                font-size: 12px;
+                font-weight: bold;
+                line-height: 15px;
+            }
+            
+            #imgdere {
+                text-align: center;
+            }
+            
+            .porteserv {
+                width: 230px;
+            }
+            
+            #derechopie {
+                display: inline-block;
+                border: 6px solid #0b99a3;
+                width: 675px;
+            }
+            
+            .portepimgpie {
+                display: inline-block;
+                width: 100px;
+                padding: 10px;
+            }
+            
+            .txtpietit {
+                position: absolute;
+                left: 130px;
+                top: 385px;
+            }
+            
+            .txtpietit1 {
+                position: absolute;
+                left: 130px;
+                top: 420px;
+            }
+            
+            .txtpietit2 {
+                position: absolute;
+                left: 130px;
+                top: 450px;
+            }

@@ -1,0 +1,75 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 950px;
+    background-color: rgb(92, 12, 241);
+    margin: 0px auto;
+    padding: 20px;
+}
+
+#header {
+    min-height: 50px;
+    background-color: rgb(214, 77, 14);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#navigation {
+    min-height: 300px;
+    width: 200px;
+    background-color: rgba(0, 255, 21, 0.678);
+    margin-top: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+ul {
+    line-height: 10px;
+    font-size: small;
+    padding: 20px;
+}
+
+ul #nav {
+    line-height: 17px;
+    font-size: small;
+}
+
+a {
+    color: white;
+}
+
+p {
+    line-height: 14px;
+    display: inline;
+    padding: 10px;
+    color: white;
+}
+
+#main_content {
+    min-height: 400px;
+    width: 700px;
+    background-color: rgb(14, 13, 13);
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+}
+
+#footer {
+    min-height: 30px;
+    background-color: rgb(70, 71, 70);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+#footer .pie {
+    color: white;
+}
